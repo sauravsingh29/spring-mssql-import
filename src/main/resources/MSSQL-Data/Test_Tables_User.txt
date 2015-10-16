@@ -1,0 +1,6 @@
+UserID,RoleID,UserName,LoginName,Designation
+1,2,Trent Lambright                                             ,TLambright                    ,Staff Software Engineer                                                         
+2,1,Stanly Fisher                                               ,SFisher                       ,Sr. Software Engineer                                                           
+3,1,Yuhang Huang                                                ,YHuang                        ,Staff Software Engineer                                                         
+4,2,Stanly Fisher                                               ,SFisher                       ,Sr. Software Engineer                                                           
+5,1,Trent Lambright                                             ,TLambright                    ,Staff Software Engineer                                                         
